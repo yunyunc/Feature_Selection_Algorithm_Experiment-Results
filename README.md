@@ -1,5 +1,5 @@
 ## Feature_Selection_Algorithm_Experiment-Results
-This is the Feature Selection Algorithm Experiment code.
+This is the MATLAB code to show the means and variances of Feature Selection Algorithm Experiment.
 
 This is written in MATLAB.
 
